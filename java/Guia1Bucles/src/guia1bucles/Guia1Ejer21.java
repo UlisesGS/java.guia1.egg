@@ -52,8 +52,8 @@ public class Guia1Ejer21 {
                                 //comparo con cada elemento de p, si alguno es distinto, no encontro la subm
                                 if (m[f][c] != p[ip][jp]) {
                                     encontrado = false;
-                                    fila = -1;
-                                    columna = -1;
+                                   // fila = 0;
+                                   // columna = 0;
                                 }
                                 jp++;
                             }

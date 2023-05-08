@@ -99,7 +99,7 @@ public class Guia1Ejer11 {
                 }
             }
             
-        } while (opcion != "S");
+        } while (!"S".equals(opcion));
         
     }
 }
