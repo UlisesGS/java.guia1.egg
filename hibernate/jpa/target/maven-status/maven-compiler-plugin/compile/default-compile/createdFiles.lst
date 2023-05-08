@@ -1,0 +1,10 @@
+com\mycompany\entidades\Editorial_.class
+com\mycompany\entidades\Libro_.class
+com\mycompany\libreria\Libreria.class
+com\mycompany\entidades\Autor_.class
+com\mycompany\CRUD\ServicioLibro.class
+com\mycompany\entidades\Autor.class
+com\mycompany\entidades\Libro.class
+com\mycompany\CRUD\ServicioAutor.class
+com\mycompany\entidades\Editorial.class
+com\mycompany\CRUD\ServicioEditorial.class

@@ -1,0 +1,7 @@
+com\mycompany\jdbc\persistencia\ProductosDAO.class
+com\mycompany\jdbc\entidades\fabricante.class
+com\mycompany\jdbc\entidades\producto.class
+com\mycompany\jdbc\servicio\FabricanteServicio.class
+com\mycompany\jdbc\persistencia\FabricanteDAO.class
+com\mycompany\jdbc\persistencia\DAO.class
+com\mycompany\jdbc\Jdbc.class
